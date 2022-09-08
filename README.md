@@ -19,8 +19,14 @@ The mentioned folders are used depending on functionality needed:
 - **src** folder should contain application related code
 - **README.md** file should contain demo guidance and demonstrated features list (TODO: use this one as an example)
 
-### Creating a DEMO 
+## Creating a DEMO 
 A demo template repository will be given to use as an starting base.
 
 Once your demo has the previosly mentioned structure, create a branch, create a demo folder under **DEMOS** and upload those files. Create a PR for us to review it.
 
+## Using a DEMO
+There are two ways to use the demos:
+1. Download the repository and just use the selected demo folder files.
+2. Using Git commands, clone just a folder, using ```sparse-checkout```, example: 
+
+   1. From you terminal:    ```git clone --no-checkout https://github.com/MS-ESI/AZ400-Demos```
