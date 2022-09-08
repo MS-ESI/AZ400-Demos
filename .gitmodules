@@ -1,0 +1,3 @@
+[submodule "Demos/GitHub-Packages-CICD-Nuget/nuget_CICD"]
+	path = Demos/GitHub-Packages-CICD-Nuget/nuget_CICD
+	url = https://github.com/unaihuete-org/nuget_CICD.git
