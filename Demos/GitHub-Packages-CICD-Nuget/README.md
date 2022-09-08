@@ -20,4 +20,5 @@ Once you have imported/copied the demo folder files, you need to follow the next
 
 3. Create a repository secret called **PAT_GH_PACKAGES** hosting the previously created PAT.
 4. In **.github/workflow/nuget-cicd.yml**, line 45, replace **unaihuete-org** with your own GitHub organization name.
-5. Make a change to the **master** branch or a **feature/*** branch a wait for the workflow execution. Master branches will create a clean version numbered package, while feature branches will contain an 
+5. Make a change to the **master** branch or a **feature/*** branch a wait for the workflow execution. Master branches will create a clean version numbered package, while feature branches will contain an alpha tag:
+![image](https://user-images.githubusercontent.com/64772417/189134524-182ba67a-d53c-46f2-a8fa-9b7f87055594.png)
