@@ -22,7 +22,11 @@ The mentioned folders are used depending on functionality needed:
 ## Creating a DEMO 
 A demo template repository will be given to use as an starting base : https://github.com/MS-ESI/DEMO-Template . Use it as a template for you demo, feel free to delete folder/files not needed. **Maintain the structure**
 
-Once your demo has the previosly mentioned structure, create a branch, create a demo folder under **DEMOS** and upload those files. Create a PR for us to review it.
+Once your demo has the previosly mentioned structure, in order to import it to AZ-400-Demos repo:
+1.create a branch for your changes
+2.create a demo folder (meaningful name) under **DEMOS** and upload those files
+3. Modify the CODEOWNERS file in the root of the repo, assign yourselve as maintainer (to review related PRs).
+3. Create a PR for us to review it and include your demo
 
 ## Using a DEMO (TODO)
 There are two ways to use the demos:
