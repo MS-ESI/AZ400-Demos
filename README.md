@@ -24,7 +24,7 @@ A demo template repository will be given to use as an starting base.
 
 Once your demo has the previosly mentioned structure, create a branch, create a demo folder under **DEMOS** and upload those files. Create a PR for us to review it.
 
-## Using a DEMO
+## Using a DEMO (TODO)
 There are two ways to use the demos:
 1. Download the repository and just use the selected demo folder files.
 2. Using Git commands, clone just a folder, using ```sparse-checkout```, example: 
