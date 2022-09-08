@@ -20,7 +20,7 @@ The mentioned folders are used depending on functionality needed:
 - **README.md** file should contain demo guidance and demonstrated features list (TODO: use this one as an example)
 
 ## Creating a DEMO 
-A demo template repository will be given to use as an starting base.
+A demo template repository will be given to use as an starting base : https://github.com/MS-ESI/DEMO-Template . Use it as a template for you demo, feel free to delete folder/files not needed. **Maintain the structure**
 
 Once your demo has the previosly mentioned structure, create a branch, create a demo folder under **DEMOS** and upload those files. Create a PR for us to review it.
 
