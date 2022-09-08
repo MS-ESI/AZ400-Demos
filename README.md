@@ -3,7 +3,7 @@ This repository will host demos that MTTs will be able to use. The following poi
 
 # DEMOS available
 
-1. (GitHub Packages CICD for Nuget using GitHub Actions and GitVersion) []
+1. [GitHub Packages CICD for Nuget using GitHub Actions and GitVersion](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/GitHub-Packages-CICD-Nuget)
 ## Repo Structure
 
 - **Demos** folder will hold each demo folder+files. **Give a significant name to your demo folder**.
@@ -21,3 +21,6 @@ The mentioned folders are used depending on functionality needed:
 
 ### Creating a DEMO 
 A demo template repository will be given to use as an starting base.
+
+Once your demo has the previosly mentioned structure, create a branch, create a demo folder under **DEMOS** and upload those files. Create a PR for us to review it.
+
