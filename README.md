@@ -19,5 +19,5 @@ The mentioned folders are used depending on functionality needed:
 - **src** folder should contain application related code
 - **README.md** file should contain demo guidance and demonstrated features list (TODO: use this one as an example)
 
-### DEMO template
-A demo template repository will be given to use as an starting base. 
+### Creating a DEMO 
+A demo template repository will be given to use as an starting base.
