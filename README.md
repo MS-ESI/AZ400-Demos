@@ -3,7 +3,7 @@ This repository will host demos that MTTs will be able to use. The following poi
 
 # DEMOS available
 
-1. (GitHub Packages CI/CD for Nuget using GitHub Actions and GitVersion for automatic versioning) []
+1. (GitHub Packages CICD for Nuget using GitHub Actions and GitVersion) []
 ## Repo Structure
 
 - **Demos** folder will hold each demo folder+files. **Give a significant name to your demo folder**.
