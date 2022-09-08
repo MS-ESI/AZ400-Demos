@@ -8,7 +8,7 @@ This repository will host demos that MTTs will be able to use. The following poi
 
 - **Demos** folder will hold each demo folder+files. **Give a significant name to your demo folder**.
 - **README** file explain the main guidelines of the repository and an index with the offered demos for quick access.
-- **CODEOWNERS** file defines the people reponsible to review updates related to the hosted demos (GitHub includes the owner as automatic reviewer on the opened Pull Requests)
+- **CODEOWNERS** file defines the people responsible to review updatesIssues related to the hosted demos (GitHub includes the owner as automatic reviewer on the opened Pull Requests)
 
 ###  DEMO folder structure 
 The mentioned folders are used depending on functionality needed:
