@@ -1,10 +1,16 @@
 # These owners will be the default owners for everything in
-# the repo. Unless a later match takes precedence,
-*       @unaihuete93
 
+# the repo. Unless a later match takes precedence,
+
+-       @unaihuete93
 
 # Order is important; the last matching pattern takes the most
+
 # precedence. When someone opens a pull request that only
+
 # modifies X files, only Y owner and not the global
+
 # owner(s) will be requested for a review.
-Demos/GitHub-Packages-CICD-Nuget    @unaihuete93
+
+Demos/GitHub-Packages-CICD-Nuget @unaihuete93
+Demos/GitHub-Actions-Blue-Green-Deployment @yashints
