@@ -41,9 +41,3 @@ There are two ways to use the demos:
 2. Using Git commands, clone just a folder, using `sparse-checkout`, example:
 
    1. From you terminal: `git clone --no-checkout https://github.com/MS-ESI/AZ400-Demos`
-
-## Current Demos
-
-- [Using GitHub Actions and Azure App Services to implement a blue green deployment strategy](./Demos/GitHub-Actions-Blue-Green-Deployment/)
-- [Using GitHub Actions to publish a package to GitHub Packages](./Demos/GitHub-Packages-CICD-Nuget/)
-- [Deploying Azure Bicep templates from local environment](./Demos/Azure-Bicep-Local-Deployment/)
