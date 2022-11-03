@@ -35,9 +35,3 @@ Once your demo has the previosly mentioned structure, in order to import it to A
 
 ## Using a DEMO (TODO)
 
-There are two ways to use the demos:
-
-1. Download the repository and just use the selected demo folder files.
-2. Using Git commands, clone just a folder, using `sparse-checkout`, example:
-
-   1. From you terminal: `git clone --no-checkout https://github.com/MS-ESI/AZ400-Demos`
