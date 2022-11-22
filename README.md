@@ -5,6 +5,7 @@ This repository will host demos that MTTs will be able to use. The following poi
 # DEMOS available
 
 1. [GitHub Packages CICD for Nuget using GitHub Actions and GitVersion](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/GitHub-Packages-CICD-Nuget) @unaihuete
+    - External Public Repo Demo: https://github.com/unaihuete-org/nuget_CICD
 1. [Blue Green Deployment Strategy using GitHub Actions](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/GitHub-Actions-Blue-Green-Deployment) @yashints
 1. [Azure Bicep Local Deployment with Key Vault](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/Azure-Bicep-Local-Deployment) @yashints
 1. TODO include GH Action variables repo from Massimo
