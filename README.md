@@ -10,6 +10,7 @@ This repository will host demos that MTTs will be able to use. The following poi
 1. [Azure Bicep Local Deployment with Key Vault](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/Azure-Bicep-Local-Deployment) @yashints
 1. TODO include GH Action variables repo from Massimo
 1. [GitHub packages for npm using GitHub Actions](./GitHub-Packages-CICD-NPM) @yashints
+1. TODO App Configuration + Key Vault @fimdim
 
 ## Repo Structure
 
