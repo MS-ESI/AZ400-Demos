@@ -29,6 +29,14 @@ The mentioned folders are used depending on functionality needed:
 
 ## Creating a DEMO
 
+### OPTION 1 Reference your external demo
+
+Add a reference to your own **public** repository on this README.md file [here](#demos-available). **Try to keep the reference [folder structure](###demo-folder-structure) and complete README file**.
+
+Add your @GH-account next to your demo (so that people know who to reach for help)
+
+### OPTION 2 Import your demo 
+
 A demo template repository will be given to use as an starting base : https://github.com/MS-ESI/DEMO-Template . Use it as a template for you demo, feel free to delete folder/files not needed. **Maintain the structure**
 
 Once your demo has the previosly mentioned structure, in order to import it to AZ-400-Demos repo:
