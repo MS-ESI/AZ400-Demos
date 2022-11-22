@@ -8,6 +8,7 @@ This repository will host demos that MTTs will be able to use. The following poi
 1. [Blue Green Deployment Strategy using GitHub Actions](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/GitHub-Actions-Blue-Green-Deployment) @yashints
 1. [Azure Bicep Local Deployment with Key Vault](https://github.com/MS-ESI/AZ400-Demos/tree/main/Demos/Azure-Bicep-Local-Deployment) @yashints
 1. TODO include GH Action variables repo from Massimo
+1. [GitHub packages for npm using GitHub Actions](./GitHub-Packages-CICD-NPM) @yashints
 
 ## Repo Structure
 
@@ -35,4 +36,3 @@ Once your demo has the previosly mentioned structure, in order to import it to A
 2.create a demo folder (meaningful name) under **DEMOS** and upload those files 3. Modify the CODEOWNERS file in the root of the repo, assign yourselve as maintainer (to review related PRs). 3. Create a PR for us to review it and include your demo
 
 ## Using a DEMO (TODO)
-
